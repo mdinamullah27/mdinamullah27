@@ -1,92 +1,108 @@
-# 👋 Hi, I'm Inam Ullah Khan  
-### AI Engineer | ML Engineer | Software Engineer
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#e63946;">Inam Ullah Khan</span>
+</h1>
 
-🚀 I build **production-ready AI systems**, combining **Machine Learning, Computer Vision, LLMs, and clean backend architectures** to solve real-world problems—especially in **Healthcare & Medical AI**.
+<h3 align="center">
+  🤖 AI Engineer | ML Engineer | Software Engineer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20from%20Bangladesh;Medical%20AI%20%7C%20Computer%20Vision;LLMs%20%7C%20FastAPI%20%7C%20Deep%20Learning;Building%20Real-World%20AI%20Systems&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdinamullah27&label=Profile%20Views&color=red&style=flat" />
+</p>
 
 ---
 
-## 🧠 Core Expertise
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Computer Vision (Medical Imaging, DICOM, OCT, X-ray, CT)
-- 🧾 LLMs, Multimodal AI, RAG Systems
-- ⚙️ Backend Engineering (FastAPI, REST APIs)
-- 🏗 AI System Design & Deployment
+## 🧠 About Me
+💡 Passionate about building **production-ready AI systems**  
+🩺 Specialized in **Medical AI, Computer Vision & LLM-based systems**  
+⚙️ Strong background in **FastAPI, backend engineering & research**  
+
+---
+
+## 🚀 What I Do
+- ✅ Machine Learning & Deep Learning
+- ✅ Computer Vision (X-ray, OCT, CT, Ultrasound)
+- ✅ LLMs & Multimodal AI
+- ✅ Backend APIs (FastAPI)
+- ✅ Research & Publications (IEEE, MDPI)
 
 ---
 
 ## 🛠 Tech Stack
-**Languages**  
-`Python` `C` `C++` `JavaScript`
 
-**AI / ML**  
-`PyTorch` `TensorFlow` `Keras` `OpenCV` `Scikit-Learn` `YOLO`
+### 🔹 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-**Backend & Frontend**  
-`FastAPI` `React` `Node.js` `Tailwind CSS`
+### 🔹 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLO-darkgreen?style=for-the-badge)
 
-**Databases**  
-`PostgreSQL` `MySQL`
-
-**Tools**  
-`Docker` `Git` `Linux`
+### 🔹 Backend & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 ### 🩺 Radiology Image Annotation Platform
-🔹 Web-based medical image annotation & AI analysis system  
-🔹 DICOM / PNG / JPG support with interactive tools  
-🔹 AI-assisted region analysis & reporting  
+🔹 Medical image annotation & AI-assisted analysis  
+🔹 DICOM / PNG / JPG support  
 
-👉 Repo:  
-https://github.com/mdinamullah27/Radiology-image-annotation-platform
+👉 https://github.com/mdinamullah27/Radiology-image-annotation-platform  
 
 ---
 
 ### 🧑‍⚕️ AI Doctor with Vision & Voice
-🔹 Multimodal medical assistant (Image + Voice)  
-🔹 Vision + Speech + LLM reasoning  
-🔹 Built using Gradio, Groq API, ElevenLabs  
+🔹 Multimodal AI (Vision + Voice + LLM)  
+🔹 Built with Gradio, Groq API  
 
-👉 Repo:  
-https://github.com/mdinamullah27/AI_DOCTOR_VOICEBOT
-
----
-
-### 👁 Human Eye Disease Prediction (OCT)
-🔹 Full-stack AI system (FastAPI + React)  
-🔹 Retinal disease classification (CNV, DME, Drusen)  
-
-👉 Repo:  
-https://github.com/inameatl/Human_Eye_Disease_Prediction_with_TR
+👉 https://github.com/mdinamullah27/AI_DOCTOR_VOICEBOT  
 
 ---
 
 ### 📚 Breast Ultrasound AI Tutor
-🔹 YOLO-based detection + classification  
-🔹 Grad-CAM & explainable AI  
-🔹 Interactive learning platform for radiology students  
+🔹 YOLO-based detection + Explainable AI  
+🔹 Training platform for radiology students  
 
-👉 Repo:  
-https://github.com/mdinamullah27/AI-Radiology-Practice-Platform
+👉 https://github.com/mdinamullah27/AI-Radiology-Practice-Platform  
 
 ---
 
-## 📄 Publications
-✅ IEEE Access  
-✅ MDPI Biomedicines  
-✅ Neural Computing & Applications  
-✅ Digital Health  
-✅ Journal of Healthcare Informatics Research  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdinamullah27&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdinamullah27&theme=radical" height="165"/>
+</p>
 
 ---
 
 ## 🌍 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/inam-ullah-khan27/
-- 🧑‍💻 GitHub: https://github.com/mdinamullah27
-- 📧 Email: inamkhan.me@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/inam-ullah-khan27/">
+    <img src="https://img.shields.io/badge/LinkedIn-Inam%20Ullah%20Khan-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:inamkhan.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-⭐ *I’m passionate about building responsible, scalable AI systems and continuously learning new technologies.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdinamullah27/mdinamullah27/main/assets/ai.gif" width="300"/>
+</p>
+
+⭐ *Always building intelligent systems that matter.*
